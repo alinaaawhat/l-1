@@ -1,0 +1,809 @@
+{
+  "acc": 57.99999999999999,
+  "correct": 116,
+  "len": 200,
+  "results": [
+    [
+      "D"
+    ],
+    [
+      "A"
+    ],
+    [
+      "B"
+    ],
+    [
+      "A"
+    ],
+    [
+      "E"
+    ],
+    [
+      "C"
+    ],
+    [
+      "B"
+    ],
+    [
+      "A"
+    ],
+    [
+      "A"
+    ],
+    [
+      "C"
+    ],
+    [
+      "B"
+    ],
+    [
+      "D"
+    ],
+    [
+      "A"
+    ],
+    [
+      "D"
+    ],
+    [
+      "E"
+    ],
+    [
+      "E"
+    ],
+    [
+      "E"
+    ],
+    [
+      "A"
+    ],
+    [
+      "E"
+    ],
+    [
+      "D"
+    ],
+    [
+      "D"
+    ],
+    [
+      "C"
+    ],
+    [
+      "E"
+    ],
+    [
+      "B"
+    ],
+    [
+      "E"
+    ],
+    [
+      "D"
+    ],
+    [
+      "B"
+    ],
+    [
+      "A"
+    ],
+    [
+      "B"
+    ],
+    [
+      "D"
+    ],
+    [
+      "D"
+    ],
+    [
+      "C"
+    ],
+    [
+      "E"
+    ],
+    [
+      "B"
+    ],
+    [
+      "A"
+    ],
+    [
+      "C"
+    ],
+    [
+      "E"
+    ],
+    [
+      "B"
+    ],
+    [
+      "A"
+    ],
+    [
+      "B"
+    ],
+    [
+      "D"
+    ],
+    [
+      "E"
+    ],
+    [
+      "C"
+    ],
+    [
+      "B"
+    ],
+    [
+      "D"
+    ],
+    [
+      "E"
+    ],
+    [
+      "D"
+    ],
+    [
+      "E"
+    ],
+    [
+      "E"
+    ],
+    [
+      "C"
+    ],
+    [
+      "C"
+    ],
+    [
+      "B"
+    ],
+    [
+      "E"
+    ],
+    [
+      "C"
+    ],
+    [
+      "D"
+    ],
+    [
+      "E"
+    ],
+    [
+      "B"
+    ],
+    [
+      "D"
+    ],
+    [
+      "E"
+    ],
+    [
+      "D"
+    ],
+    [
+      "B"
+    ],
+    [
+      "E"
+    ],
+    [
+      "D"
+    ],
+    [
+      "D"
+    ],
+    [
+      "E"
+    ],
+    [
+      "E"
+    ],
+    [
+      "E"
+    ],
+    [
+      "C"
+    ],
+    [
+      "C"
+    ],
+    [
+      "C"
+    ],
+    [
+      "E"
+    ],
+    [
+      "E"
+    ],
+    [
+      "B"
+    ],
+    [
+      "A"
+    ],
+    [
+      "E"
+    ],
+    [
+      "E"
+    ],
+    [
+      "E"
+    ],
+    [
+      "C"
+    ],
+    [
+      "B"
+    ],
+    [
+      "E"
+    ],
+    [
+      "B"
+    ],
+    [
+      "C"
+    ],
+    [
+      "E"
+    ],
+    [
+      "E"
+    ],
+    [
+      "A"
+    ],
+    [
+      "A"
+    ],
+    [
+      "D"
+    ],
+    [
+      "B"
+    ],
+    [
+      "E"
+    ],
+    [
+      "C"
+    ],
+    [
+      "E"
+    ],
+    [
+      "B"
+    ],
+    [
+      "C"
+    ],
+    [
+      "E"
+    ],
+    [
+      "C"
+    ],
+    [
+      "B"
+    ],
+    [
+      "E"
+    ],
+    [
+      "D"
+    ],
+    [
+      "E"
+    ],
+    [
+      "C"
+    ],
+    [
+      "D"
+    ],
+    [
+      "D"
+    ],
+    [
+      "D"
+    ],
+    [
+      "E"
+    ],
+    [
+      "D"
+    ],
+    [
+      "D"
+    ],
+    [
+      "E"
+    ],
+    [
+      "E"
+    ],
+    [
+      "A"
+    ],
+    [
+      "C"
+    ],
+    [
+      "C"
+    ],
+    [
+      "C"
+    ],
+    [
+      "D"
+    ],
+    [
+      "D"
+    ],
+    [
+      "E"
+    ],
+    [
+      "E"
+    ],
+    [
+      "E"
+    ],
+    [
+      "C"
+    ],
+    [
+      "A"
+    ],
+    [
+      "C"
+    ],
+    [
+      "B"
+    ],
+    [
+      "C"
+    ],
+    [
+      "D"
+    ],
+    [
+      "E"
+    ],
+    [
+      "E"
+    ],
+    [
+      "B"
+    ],
+    [
+      "E"
+    ],
+    [
+      "D"
+    ],
+    [
+      "E"
+    ],
+    [
+      "D"
+    ],
+    [
+      "D"
+    ],
+    [
+      "C"
+    ],
+    [
+      "E"
+    ],
+    [
+      "D"
+    ],
+    [
+      "D"
+    ],
+    [
+      "B"
+    ],
+    [
+      "C"
+    ],
+    [
+      "E"
+    ],
+    [
+      "C"
+    ],
+    [
+      "D"
+    ],
+    [
+      "D"
+    ],
+    [
+      "B"
+    ],
+    [
+      "A"
+    ],
+    [
+      "A"
+    ],
+    [
+      "E"
+    ],
+    [
+      "A"
+    ],
+    [
+      "C"
+    ],
+    [
+      "C"
+    ],
+    [
+      "C"
+    ],
+    [
+      "E"
+    ],
+    [
+      "A"
+    ],
+    [
+      "E"
+    ],
+    [
+      "E"
+    ],
+    [
+      "D"
+    ],
+    [
+      "E"
+    ],
+    [
+      "D"
+    ],
+    [
+      "B"
+    ],
+    [
+      "E"
+    ],
+    [
+      "A"
+    ],
+    [
+      "E"
+    ],
+    [
+      "A"
+    ],
+    [
+      "D"
+    ],
+    [
+      "C"
+    ],
+    [
+      "D"
+    ],
+    [
+      "C"
+    ],
+    [
+      "A"
+    ],
+    [
+      "E"
+    ],
+    [
+      "D"
+    ],
+    [
+      "E"
+    ],
+    [
+      "C"
+    ],
+    [
+      "C"
+    ],
+    [
+      "D"
+    ],
+    [
+      "D"
+    ],
+    [
+      "D"
+    ],
+    [
+      "E"
+    ],
+    [
+      "E"
+    ],
+    [
+      "D"
+    ],
+    [
+      "A"
+    ],
+    [
+      "E"
+    ],
+    [
+      "B"
+    ],
+    [
+      "D"
+    ],
+    [
+      "A"
+    ],
+    [
+      "B"
+    ],
+    [
+      "E"
+    ],
+    [
+      "C"
+    ],
+    [
+      "E"
+    ],
+    [
+      "E"
+    ],
+    [
+      "C"
+    ],
+    [
+      "E"
+    ],
+    [
+      "A"
+    ],
+    [
+      "A"
+    ],
+    [
+      "A"
+    ],
+    [
+      "A"
+    ],
+    [
+      "E"
+    ],
+    [
+      "C"
+    ],
+    [
+      "A"
+    ],
+    [
+      "D"
+    ],
+    [
+      "A"
+    ],
+    [
+      "D"
+    ],
+    [
+      "E"
+    ]
+  ],
+  "outputs": [
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is B.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is E.</s>",
+    "Answer: The answer is C.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is A.</s>",
+    "Answer: The answer is D.</s>",
+    "Answer: The answer is E.</s>"
+  ]
+}

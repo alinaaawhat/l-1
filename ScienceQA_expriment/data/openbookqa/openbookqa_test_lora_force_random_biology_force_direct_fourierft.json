@@ -1,0 +1,13 @@
+{
+  "accuracy": 0.0,
+  "correct": 0,
+  "total": 0,
+  "model_path": "gcyzsl/O3_LLAMA2_ScienceQA",
+  "adapter_path": "./SCALE_0.1_seed_0_o_unlearn_lora_force_checkpoints_5/lora_force_random_biology_force",
+  "test_dataset": "./data/openbookqa/openbookqa_test.json",
+  "ood_weight": [
+    1,
+    1
+  ],
+  "evaluation_type": "direct_fourierft"
+}
